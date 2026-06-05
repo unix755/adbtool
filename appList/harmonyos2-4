@@ -639,8 +639,12 @@ com.huawei.ohos.security.privacycenter
 # HSDR
 #com.huawei.security.hsdr
 
-# 安全隐私中心
-#com.huawei.security.privacycenter
+# 安全隐私中心(关闭纯净模式需要卸载, 卸载后应用-权限管理无法进入)
+# 第一条指令提示无权限, 只能在 app 中设置才会有权限
+# adb shell settings put secure pure_mode_state 1
+# adb shell settings put secure pure_enhanced_mode_state 1
+# adb shell settings put global app_check_risk 0
+com.huawei.security.privacycenter
 
 # 手写笔悬浮窗
 #com.huawei.stylus.floatmenu

@@ -178,7 +178,7 @@ com.miui.audioeffect
 #com.miui.misound
 
 # 用户反馈
-com.miui.bugreport
+#com.miui.bugreport
 
 # 人脸解锁
 #com.miui.face
