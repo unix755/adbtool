@@ -1,0 +1,25 @@
+#!/usr/bin/env sh
+# 需要手动卸载
+
+# 电子邮件
+com.android.email
+# 多看
+com.duokan.reader
+# 小米画报
+com.mfashiongallery.emag
+# 垃圾清理
+com.miui.cleanmaster
+# 内容中心
+com.miui.newhome
+# 笔记
+com.miui.notes
+# 手机管家
+com.miui.securitymanager
+# 小米视频
+com.miui.video
+# 天气
+com.miui.weather2
+# 游戏中心
+com.xiaomi.gamecenter
+# AI扫描
+com.xiaomi.scanner
