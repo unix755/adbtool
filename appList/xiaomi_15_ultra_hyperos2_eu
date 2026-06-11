@@ -183,7 +183,7 @@ com.android.email
 # 系统 - 家长控制
 #com.google.android.gms.supervision
 # Google 快速搜索框
-com.google.android.googlequicksearchbox
+#com.google.android.googlequicksearchbox
 # Google 服务框架
 #com.google.android.gsf
 # Gboard 输入法
