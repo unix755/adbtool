@@ -65,7 +65,8 @@ com.android.mediacenter
 #com.android.stk
 #com.android.systemui
 #com.android.systemui.overlay
-#com.android.vending
+# Google Play 商店
+com.android.vending
 #com.android.vpndialogs
 #com.android.wallpaper.livepicker
 #com.android.wallpaperbackup
@@ -81,10 +82,10 @@ com.baidu.input_huawei
 #com.google.android.ext.shared
 
 # Google Play 服务
-#com.google.android.gms
+com.google.android.gms
 
 # Google 服务框架
-#com.google.android.gsf
+com.google.android.gsf
 
 # Android Accessibility Suite
 #com.google.android.marvin.talkback
