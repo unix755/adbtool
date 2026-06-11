@@ -151,7 +151,7 @@ com.android.email
 #com.android.uwb.resources
 #com.android.uwb.resources.overlay.common
 # Google Play 商店
-com.android.vending
+#com.android.vending
 #com.android.virtualmachine.res
 #com.android.vpndialogs
 #com.android.wallpaper.livepicker
@@ -177,7 +177,7 @@ com.android.vending
 # 应用商店反馈代理程序
 #com.google.android.feedback
 # Google Play 服务
-com.google.android.gms
+#com.google.android.gms
 # Google 位置记录
 #com.google.android.gms.location.history
 # 系统 - 家长控制
@@ -185,7 +185,7 @@ com.google.android.gms
 # Google 快速搜索框
 com.google.android.googlequicksearchbox
 # Google 服务框架
-com.google.android.gsf
+#com.google.android.gsf
 # Gboard 输入法
 #com.google.android.inputmethod.latin
 # Android 无障碍套件
