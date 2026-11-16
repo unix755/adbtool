@@ -103,8 +103,10 @@ com.miui.extraphoto
 # 安全核心组件
 #com.miui.securitycore
 
-# MIUI安全组件
-#com.miui.guardprovider
+# MIUI安全组件(反诈骗相关组件, 卸载后会导致系统短信无通知, 需要安装 Google Messages)
+com.miui.guardprovider
+# 短信(卸载前需要安装 Google Messages)
+com.android.mms
 
 # Mi Video
 com.miui.videoplayer
@@ -157,7 +159,7 @@ com.miui.miservice
 #android.miui.overlay
 
 # 垃圾清理
-com.miui.cleaner
+#com.miui.cleaner
 
 # 指南针
 com.miui.compass
